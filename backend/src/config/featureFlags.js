@@ -1,4 +1,3 @@
-
 'use strict';
 
 function readBoolean(name, defaultValue) {
